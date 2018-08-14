@@ -56,6 +56,9 @@ dependencies {
     // Firebase UI
     implementation 'com.firebaseui:firebase-ui-database:3.3.1'
 
+    //Firebase authentication
+    implementation 'com.google.firebase:firebase-auth:15.0.0'
+
     //Crashlytics
     implementation 'com.crashlytics.sdk.android:crashlytics:2.9.2'
 
